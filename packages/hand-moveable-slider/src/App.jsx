@@ -1,34 +1,4 @@
-import MouseScroller from './components/MouseScroller'
+import HandMoveableSlider from './components/HandMoveableSlider'
 
-function App() {
+export default HandMoveableSlider ;
 
-  return (
-    <>
-    <h1>hwl</h1>
-    <MouseScroller> 
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-      <div style={{border:"1px solid black"}}>hello</div>
-
-    </MouseScroller>
-          
-    </>
-  )
-}
-
-export default App
