@@ -1,34 +1,26 @@
+# Hi there! 👋
 
-# Handle-Moveable-Slider
+Welcome to my GitHub profile. I'm a full-stack developer with a passion for building and publishing npm packages. Here you'll find various projects and packages that I've worked on and shared with the community.
 
-Handle-Moveable-Slider to create a scrollable slider using mouse interactions.
+## 📦 npm Packages
 
-## Installation
+I actively publish npm packages to simplify development and improve workflows.
 
-Install the package using npm:
+You can find more of my packages on [npm](https://www.npmjs.com/~saqibaltaf123) by searching for my username or package names.
 
-    npm install handle-moveable-slider
+## 🔧 Tech
 
-
-## Props
-
-* customStyles (optional): An object to pass custom CSS styles to the HandleMoveableSlider component. Default is **{border: 'none'}**, we can pass any other css what we can.
+-  Javascript
 
 
-## Example
 
-Here is an example:
 
-```jsx
-import React from 'react';
-import HandleMoveableSlider from 'handle-moveable-slider';
+## 💬 Connect with Me
 
-const App = () => (
-  <HandleMoveableSlider customStyles={{border:'none'}}>
-    <div style={{border:"1px solid black"}}>hello</div>
-    <div style={{border:"1px solid black"}}>hello</div>
-    <div style={{border:"1px solid black"}}>hello</div>
-  </HandleMoveableSlider>
-);
+- [LinkedIn](https://www.linkedin.com/in/saqib-altaf/)
 
-export default App;
+Feel free to reach out if you have any questions, suggestions, or just want to chat about code!
+
+
+Thanks for visiting my profile!
+
